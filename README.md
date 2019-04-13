@@ -10,7 +10,7 @@ Contact: yizechen@uw.edu
 ## Introduction
 Load forecasting plays a critical role in the operation and planning of power systems. By using input features such as historical loads and weather forecasts, system operators and utilities build forecast models to guide decision making in commitment and dispatch. As the forecasting techniques becomes more sophisticated, however, they also become more vulnerable to cybersecurity threats. We study the vulnerability of a class of load forecasting algorithms and analyze the potential impact on the power system operations, such as load shedding and increased dispatch costs. Specifically, we propose data injection attack algorithms that require minimal assumptions on the ability of the adversary. By only injecting malicious data in temperature from online weather forecast APIs, an attacker could manipulate load forecasts in arbitrary directions and cause significant and targeted damages to system operations. 
 
-![alt text](https://github.com/chennnnnyize/load_forecasts_attack/blob/master/datasets/schematic.pdf)
+![alt text](https://github.com/chennnnnyize/load_forecasts_attack/blob/master/datasets/schematic.png)
 
 ## Attack Method
 ### Learn and Attack
