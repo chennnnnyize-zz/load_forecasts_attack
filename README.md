@@ -1,7 +1,9 @@
 # load_forecasts_attack
 Code repo for ACM e-Energy 2019 paper: Exploiting Vulnerabilities of Load Forecasting Through Adversarial Attacks
 
-Authors: Yize Chen, Yushi Tan and Baosen Zhang
+Extended version: Vulnerabilities of Power System Operations to Load Forecasting Data Injection Attacks
+
+Authors: Yize Chen, Yushi Tan, Ling Zhang and Baosen Zhang
 
 University of Washington
 
@@ -29,4 +31,5 @@ Power systems unit commitment and economic dispatch: Pypsa
 ## Run Experiments with PreProcessed Datasets
 We make use of weather data from Dark Sky API and load data from ENTSOE(European Network of Transmission System Operators for Electricity)
 
+### June 17th: Updates on attacking a power network 
 
