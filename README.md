@@ -1,5 +1,5 @@
 # load_forecasts_attack
-Code repo for ACM e-Energy 2019 paper: Exploiting Vulnerabilities of Load Forecasting Through Adversarial Attacks
+Code repo for ACM e-Energy 2019 paper: Exploiting Vulnerabilities of Load Forecasting Through Adversarial Attacks [Paper](https://dl.acm.org/doi/abs/10.1145/3307772.3328314) [Runner-Up for Best Paper]
 
 Extended version: Vulnerabilities of Power System Operations to Load Forecasting Data Injection Attacks
 
@@ -19,6 +19,8 @@ Load forecasting plays a critical role in the operation and planning of power sy
 
 ### Gradient Estimation Attack
 
+## Load Forecasting Algorithms
+
 ## Code Dependencies
 All code are implemented in Python.
 
@@ -31,5 +33,6 @@ Power systems unit commitment and economic dispatch: Pypsa
 ## Run Experiments with PreProcessed Datasets
 We make use of weather data from Dark Sky API and load data from ENTSOE(European Network of Transmission System Operators for Electricity)
 
-### June 17th: Updates on attacking a power network 
+### June 17th, 2019: Updates on attacking a power network 
+Vulnerabilities of Power System Operations to Load Forecasting Data Injection Attacks [Paper](https://arxiv.org/abs/1906.04926)
 
